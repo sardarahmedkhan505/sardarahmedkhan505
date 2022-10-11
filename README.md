@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sardarahmedkhan505
-- 👀 I’m interested in Full-stack Web3 Blockcain development
+- 👀 I’m interested in Full-stack Web3 Blockchain development
 - 🌱 I’m currently learning Web3 and smart contract Auditing
 - 💞️ I’m looking to collaborate on DAO and NFT marketplaces
 - 📫 Reach me at sardarahmedkhan59@gmail.com
