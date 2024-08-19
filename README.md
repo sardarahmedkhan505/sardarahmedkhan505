@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sardarahmedkhan505
 - 👀 I’m interested in Full-stack Web3 Blockchain development
-- 🌱 I’m currently learning Web3 and smart contract Auditing
-- 💞️ I’m looking to collaborate on building Smart contracts preferable in solidity, Smart contract Auditing, Developing DAO and NFT marketplaces
+- 🌱 I’m currently building Rust programs and smart contract Auditing
+- 💞️ I’m looking to collaborate on building Smart contracts preferable in Rust, solidity, Smart contract Auditing, Developing DAO and NFT marketplaces
 - 📫 Reach me at sardarahmedkhan59@gmail.com
 
 <!---
